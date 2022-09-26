@@ -10,6 +10,6 @@ time.textContent = calendarTime;
 
 // need to add submit button to all save button icons to save event 
 
-
+// work on input form for events
 
 
