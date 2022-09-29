@@ -1,15 +1,27 @@
 # ScheduleWellness
 
-user should open the planner via a button
-the current day should display at the top
-the user scrolls down and should see timeblock for standard business hours....
-on the side of the calendar times from 8am - 5pm should display
-9 input spaces for schedule
-save button to the right side of input to save & store schedule
-for the selcted day, the timeblock is color coded or styled with different color to indicate whether it is the past, present, or future
-the user should CLICk the time block and INPUT and event via 
-when the save buton is clicked for the timeblock
-the text for that event is saved in local storage
-if the page is refreshed the save events persists
+## Description
+Try out my schedule planner! This challenge helped me gain knowledge in utilizing local storage and traversal of the DOM. I also was able to implement and learn utilizing third party API's. The challenge I faced were learning how to create logic to excute the function I needed. I plan to revist this challenge in add the function to save input information & have the time blocks change colors as the the day progresses.
+
+<img src="assets\Screenshot 2022-09-28 201459.png">
+## Table of Contents (Optional)
+n/a
+
+## Installation
+
+N/A
+
+## Usage
+
+N/A
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
+
 
 
